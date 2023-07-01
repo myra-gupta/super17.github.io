@@ -1,0 +1,93 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "georgia";
+  box-sizing: border-box;
+}
+.contact {
+  position: relative;
+  padding: 50px 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.contact .content {
+  text-align: center;
+  background-color: #e0ff4f;
+}
+.contact .content h2 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #93032e;
+}
+.contact .content p {
+  font-weight: 500;
+  color: #93032e;
+}
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+.container .contactinfo {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+.container .contactinfo .box {
+  position: relative;
+  padding: 20px 0;
+  display: flex;
+}
+.icon i {
+  height: 50px;
+  width: 50px;
+  background-color: #593659;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100px;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.details {
+  display: flex;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  color: #93032e;
+  flex-direction: column;
+}
+.details p {
+  color: #593659;
+  font-weight: bold;
+}
+form h2 {
+  margin-bottom: 30px;
+}
+span {
+  color: #93032e;
+  font-weight: bold;
+}
+.inputbox {
+  margin: 10px;
+}
+input {
+  width: 250px;
+  height: 30px;
+}
+.send {
+  background-color: #593659;
+  width: 90px;
+  color: #e0ff4f;
+}
+a {
+  font-family: "georgia";
+  font-size: 30px;
+  text-transform: uppercase;
+  color: black;
+  margin-left: 720px;
+}

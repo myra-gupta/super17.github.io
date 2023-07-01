@@ -1,0 +1,45 @@
+* {
+}
+.signup {
+  width: 350px;
+  height: 320px;
+  padding: 20px;
+  background-color: #593659;
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+  margin: 8% auto 0;
+  text-align: center;
+}
+.signup h1 {
+  color: #e0ff4f;
+  font-family: "georgia";
+}
+input.inputbox {
+  background-color: #e4e4f1;
+  width: 200px;
+  height: 25px;
+  margin-bottom: 20px;
+}
+.icon {
+  margin-left: 65px;
+  height: 20px;
+  width: 40px;
+  margin-bottom: 10px;
+  color: #93032e;
+  border-radius: 100px;
+  background-color: #e0ff4f;
+}
+p {
+  color: #e0ff4f;
+}
+button {
+  background-color: #93032e;
+  color: #e0ff4f;
+  margin-bottom: 40px;
+}
+a {
+  font-family: "georgia";
+  font-size: 30px;
+  text-transform: uppercase;
+  color: black;
+  text-align: center;
+}
